@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/neoapps-dev/hello-world.git",
+    "name": "Hello-World",
+    "version": "1.0.111",
+    "maintainer": "NEOAPPS-OLD",
+    "description": "A simple hello world app.",
+    "license": "NONE",
+    "dependencies": [],
+    "tags": ["test"]
+}
